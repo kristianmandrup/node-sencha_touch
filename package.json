@@ -1,0 +1,15 @@
+{
+  "author": "Kristian Mandrup <kmandrup@gmail.com>",
+  "name": "node-sencha_touch",
+  "main": "node-sencha_touch",
+  "homepage": "https://github.com/kristianmandrup/sencha_touch",
+  "description": "Sencha Touch module for Node",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kristianmandrup/sencha_touch"
+  },
+  "engines": {
+    "node":">= 0.4.0 < 0.7.0" 
+  }
+}
