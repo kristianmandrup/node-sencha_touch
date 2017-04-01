@@ -1,6 +1,8 @@
 node-sencha_touch
 =================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/node-sencha_touch.svg)](https://greenkeeper.io/)
+
 Sencha's (http://www.sencha.com) Sencha Touch library running under NodeJS (http://www.nodejs.org)
 
 Inspired by node-extjs which is used as the template for this project.
